@@ -1,0 +1,10 @@
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Stacks.exe.config
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Stacks.exe
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\bin\Debug\Stacks.pdb
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.Form1.resources
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.Properties.Resources.resources
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.csproj.GenerateResource.Cache
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.exe
+c:\users\pinheiro\documents\visual studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.pdb
+C:\Users\Pinheiro\Documents\Visual Studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\Pinheiro\Documents\Visual Studio 2015\Projects\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
