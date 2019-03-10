@@ -1,2 +1,2 @@
 # StackClass
-simple program using the use of the Stack class
+simple program showing the use of the Stack class and basic understanding.
